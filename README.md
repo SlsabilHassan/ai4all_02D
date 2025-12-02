@@ -1,3 +1,4 @@
+[👉 View the Demo](https://claude.ai/public/artifacts/9ced5d8d-c574-4e1f-82bb-7681433e2613)
 # Trust-Based Product Analysis Model
 
 This project analyzes Amazon product data to identify key factors that drive customer trust and purchase decisions. Using machine learning, we predict whether a product will have a "high purchase" volume based on trust signals like ratings, reviews, badges, and pricing.
